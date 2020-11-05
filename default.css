@@ -294,8 +294,8 @@ hr {
 	overflow: hidden;
 	width: 1100px;
 	margin: 0px auto;
-	padding: 50px 50px 30px 50px;
-}
+	padding: 50px 50px 30px 50px};
+
 
 #three-columns .content {
 	overflow: hidden;
@@ -316,6 +316,7 @@ hr {
 #three-columns #column2 {
 	float: left;
 	width: 430px;
+	text-align: center;
 }
 
 #three-columns #column3 {
@@ -390,9 +391,16 @@ hr {
 	color: #FFFFFF;
 }
 
+div.integrantes {
+   
 
+    width: 150px;
+    height: 150px;
+    margin: 20px 18%;
+}
 
+div.integrantes img {
 
-
-
-
+    width: 150px;
+    height: 150px;
+}
